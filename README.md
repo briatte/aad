@@ -4,5 +4,5 @@ A collection of data analysis examples written in R, used in [this course][aad].
 
 Example graphs:
 
-![](piketty_saez.png)
-![](reinhart_rogoff.png)
+![](piketty-saez.png)
+![](reinhart-rogoff.png)
