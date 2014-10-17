@@ -62,6 +62,6 @@ ggplot(data = debt, aes(y = growth, x = ratio)) +
   theme_linedraw(12)
 
 # uncomment to save last plot
-# ggsave("reinhart_rogoff.png", width = 11, height = 8)
+# ggsave("reinhart-rogoff.png", width = 11, height = 8)
 
 ## have a nice day

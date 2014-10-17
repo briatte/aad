@@ -69,6 +69,6 @@ qplot(data = ps, x = Year, y = value / 100, linetype = Fractile,
   theme(legend.position = "none")
 
 # uncomment to save
-# ggsave("piketty_saez.png", width = 11, height = 8)
+# ggsave("piketty-saez.png", width = 11, height = 8)
 
 ## have a nice day
