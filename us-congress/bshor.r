@@ -90,7 +90,7 @@ p + geom_rug() +
        y = "density\n", x = "\nscore")
 
 # uncomment to save last plot
-ggsave("us-congress.png", width = 11, height = 8)
+# ggsave("us-congress.png", width = 11, height = 8)
 
 # empirical cumulative distribution functions (ecdf)
 p + geom_step(stat = "ecdf", aes(color = party))
