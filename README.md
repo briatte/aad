@@ -6,3 +6,4 @@ Example graphs:
 
 ![](piketty-saez.png)
 ![](reinhart-rogoff.png)
+![](us-congress.png)
